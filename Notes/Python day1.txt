@@ -1,0 +1,30 @@
+
+Keyboard shortcuts
+
+Copy
+
+Windows -> CTRL+ C 
+MAC--> Command + C 
+
+Paste
+
+Windows --> CTRL + V
+MAC--> Command + V 
+Select ALL--> 
+
+CTRL+ A
+
+Cut -->Ctrl + X 
+
+
+Revert back--> Ctrl+ Z
+Command + Z
+
+
+NEW--> CTRL + N
+Command + N 
+
+Screen shot cut is
+
+MAC command + shift + 4
+Windows Window + shift + S
