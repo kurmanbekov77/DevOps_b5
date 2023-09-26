@@ -15,3 +15,4 @@ server_for_applacation = cpu_usage > more_server
 40< cpu_usage <70
 
 print("We should launch new server" , server_for_applacation)
+
