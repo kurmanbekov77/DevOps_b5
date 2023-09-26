@@ -1,6 +1,5 @@
 
 a = b = c = d = 5
-e = 7
 
 #These variables are not dependent on each other. 
 print("a:",a)
@@ -13,6 +12,5 @@ print("a:",a)
 print("b:",b)
 print("c:",c)
 print("d:",d)
-print("e:",e)
 #Python always looks for the last asignment to the line 
 # it is executing.
